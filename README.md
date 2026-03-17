@@ -1,4 +1,3 @@
-Schedulink
 Schedulink is a C# Windows Forms application designed to simplify the process of scheduling and managing appointments between students and professors. The application features a dynamic calendar interface, role-based access, and persistent data storage.
 
 🚀 Features
