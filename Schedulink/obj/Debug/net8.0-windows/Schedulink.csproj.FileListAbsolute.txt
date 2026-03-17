@@ -1,0 +1,172 @@
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\Schedulink.exe
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\Schedulink.deps.json
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\Schedulink.runtimeconfig.json
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\Schedulink.dll
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\Schedulink.pdb
+C:\Users\andrd\source\repos\Schedulink\obj\Debug\net8.0-windows\Schedulink.Form1.resources
+C:\Users\andrd\source\repos\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.GenerateResource.cache
+C:\Users\andrd\source\repos\Schedulink\obj\Debug\net8.0-windows\Schedulink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrd\source\repos\Schedulink\obj\Debug\net8.0-windows\Schedulink.AssemblyInfoInputs.cache
+C:\Users\andrd\source\repos\Schedulink\obj\Debug\net8.0-windows\Schedulink.AssemblyInfo.cs
+C:\Users\andrd\source\repos\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.CoreCompileInputs.cache
+C:\Users\andrd\source\repos\Schedulink\obj\Debug\net8.0-windows\Schedulink.dll
+C:\Users\andrd\source\repos\Schedulink\obj\Debug\net8.0-windows\refint\Schedulink.dll
+C:\Users\andrd\source\repos\Schedulink\obj\Debug\net8.0-windows\Schedulink.pdb
+C:\Users\andrd\source\repos\Schedulink\obj\Debug\net8.0-windows\Schedulink.genruntimeconfig.cache
+C:\Users\andrd\source\repos\Schedulink\obj\Debug\net8.0-windows\ref\Schedulink.dll
+C:\Users\andrd\source\repos\Schedulink\obj\Debug\net8.0-windows\Schedulink.Hub.resources
+C:\Users\andrd\source\repos\Schedulink\obj\Debug\net8.0-windows\Schedulink.ucDays.resources
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\Schedulink.exe
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\Schedulink.deps.json
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\Schedulink.runtimeconfig.json
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\Schedulink.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\Schedulink.pdb
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\obj\Debug\net8.0-windows\Schedulink.Form1.resources
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\obj\Debug\net8.0-windows\Schedulink.Hub.resources
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\obj\Debug\net8.0-windows\Schedulink.ucDays.resources
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.GenerateResource.cache
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\obj\Debug\net8.0-windows\Schedulink.GeneratedMSBuildEditorConfig.editorconfig
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\obj\Debug\net8.0-windows\Schedulink.AssemblyInfoInputs.cache
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\obj\Debug\net8.0-windows\Schedulink.AssemblyInfo.cs
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.CoreCompileInputs.cache
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\obj\Debug\net8.0-windows\Schedulink.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\obj\Debug\net8.0-windows\refint\Schedulink.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\obj\Debug\net8.0-windows\Schedulink.pdb
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\obj\Debug\net8.0-windows\Schedulink.genruntimeconfig.cache
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\obj\Debug\net8.0-windows\ref\Schedulink.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.AssemblyReference.cache
+D:\DeskTop Folders\Angelina\VisualStudio\Alepis\Schedulink4\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.Up2Date
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\andrd\source\repos\Schedulink\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\andrd\source\repos\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.AssemblyReference.cache
+C:\Users\andrd\source\repos\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.Up2Date
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\Schedulink.exe
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\Schedulink.deps.json
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\Schedulink.runtimeconfig.json
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\Schedulink.dll
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\Schedulink.pdb
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\andrd\Desktop\Schedulink\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\andrd\Desktop\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.AssemblyReference.cache
+C:\Users\andrd\Desktop\Schedulink\obj\Debug\net8.0-windows\Schedulink.Form1.resources
+C:\Users\andrd\Desktop\Schedulink\obj\Debug\net8.0-windows\Schedulink.Hub.resources
+C:\Users\andrd\Desktop\Schedulink\obj\Debug\net8.0-windows\Schedulink.ucDays.resources
+C:\Users\andrd\Desktop\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.GenerateResource.cache
+C:\Users\andrd\Desktop\Schedulink\obj\Debug\net8.0-windows\Schedulink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrd\Desktop\Schedulink\obj\Debug\net8.0-windows\Schedulink.AssemblyInfoInputs.cache
+C:\Users\andrd\Desktop\Schedulink\obj\Debug\net8.0-windows\Schedulink.AssemblyInfo.cs
+C:\Users\andrd\Desktop\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.CoreCompileInputs.cache
+C:\Users\andrd\Desktop\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.Up2Date
+C:\Users\andrd\Desktop\Schedulink\obj\Debug\net8.0-windows\Schedulink.dll
+C:\Users\andrd\Desktop\Schedulink\obj\Debug\net8.0-windows\refint\Schedulink.dll
+C:\Users\andrd\Desktop\Schedulink\obj\Debug\net8.0-windows\Schedulink.pdb
+C:\Users\andrd\Desktop\Schedulink\obj\Debug\net8.0-windows\Schedulink.genruntimeconfig.cache
+C:\Users\andrd\Desktop\Schedulink\obj\Debug\net8.0-windows\ref\Schedulink.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\Schedulink.exe
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\Schedulink.deps.json
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\Schedulink.runtimeconfig.json
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\Schedulink.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\Schedulink.pdb
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.AssemblyReference.cache
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\obj\Debug\net8.0-windows\Schedulink.Form1.resources
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\obj\Debug\net8.0-windows\Schedulink.Hub.resources
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\obj\Debug\net8.0-windows\Schedulink.ucDays.resources
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.GenerateResource.cache
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\obj\Debug\net8.0-windows\Schedulink.GeneratedMSBuildEditorConfig.editorconfig
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\obj\Debug\net8.0-windows\Schedulink.AssemblyInfoInputs.cache
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\obj\Debug\net8.0-windows\Schedulink.AssemblyInfo.cs
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.CoreCompileInputs.cache
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.Up2Date
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\obj\Debug\net8.0-windows\Schedulink.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\obj\Debug\net8.0-windows\refint\Schedulink.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\obj\Debug\net8.0-windows\Schedulink.pdb
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\obj\Debug\net8.0-windows\Schedulink.genruntimeconfig.cache
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink\obj\Debug\net8.0-windows\ref\Schedulink.dll
+C:\Users\andrd\source\repos\Schedulink\obj\Debug\net8.0-windows\Schedulink.Properties.Resources.resources
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\Schedulink.exe
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\Schedulink.deps.json
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\Schedulink.runtimeconfig.json
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\Schedulink.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\Schedulink.pdb
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.AssemblyReference.cache
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\obj\Debug\net8.0-windows\Schedulink.Form1.resources
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\obj\Debug\net8.0-windows\Schedulink.Hub.resources
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\obj\Debug\net8.0-windows\Schedulink.Properties.Resources.resources
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\obj\Debug\net8.0-windows\Schedulink.ucDays.resources
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.GenerateResource.cache
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\obj\Debug\net8.0-windows\Schedulink.GeneratedMSBuildEditorConfig.editorconfig
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\obj\Debug\net8.0-windows\Schedulink.AssemblyInfoInputs.cache
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\obj\Debug\net8.0-windows\Schedulink.AssemblyInfo.cs
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.CoreCompileInputs.cache
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\obj\Debug\net8.0-windows\Schedulink.csproj.Up2Date
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\obj\Debug\net8.0-windows\Schedulink.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\obj\Debug\net8.0-windows\refint\Schedulink.dll
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\obj\Debug\net8.0-windows\Schedulink.pdb
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\obj\Debug\net8.0-windows\Schedulink.genruntimeconfig.cache
+D:\DeskTop Folders\Angelina\VisualStudio\Schedulink8\Schedulink\obj\Debug\net8.0-windows\ref\Schedulink.dll
